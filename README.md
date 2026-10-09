@@ -223,4 +223,4 @@ ProfiCAD is offered as a full free version with all features and updates include
 Unlock the full potential of your electronic design projects today by downloading ProfiCAD!
 
 ---
-**Last updated:** 2026-10-08 20:20:46 UTC
+**Last updated:** 2026-10-09 00:49:07 UTC
